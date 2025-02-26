@@ -5,6 +5,8 @@ Validation Accuracy :  0.4793388429752066
 SVC(kernel='poly', probability=True) : 
 Training Accuracy :  0.49871262935205074
 Validation Accuracy :  0.5042644628099173
+
+
 XGBClassifier(base_score=None, booster=None, callbacks=None,
               colsample_bylevel=None, colsample_bynode=None,
               colsample_bytree=None, device=None, early_stopping_rounds=None,
