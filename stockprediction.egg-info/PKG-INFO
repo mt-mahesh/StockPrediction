@@ -1,0 +1,19 @@
+Metadata-Version: 2.2
+Name: stockprediction
+Version: 0.1.0
+Summary: Stock prediction model using various ML algorithms
+Author-email: Bourbon <your.email@example.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: pandas-ta
+Requires-Dist: scikit-learn
+Requires-Dist: xgboost
+Requires-Dist: setuptools
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: black; extra == "dev"
+Requires-Dist: flake8; extra == "dev"

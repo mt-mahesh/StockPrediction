@@ -1,0 +1,7 @@
+pyproject.toml
+stockprediction.py
+stockprediction.egg-info/PKG-INFO
+stockprediction.egg-info/SOURCES.txt
+stockprediction.egg-info/dependency_links.txt
+stockprediction.egg-info/requires.txt
+stockprediction.egg-info/top_level.txt

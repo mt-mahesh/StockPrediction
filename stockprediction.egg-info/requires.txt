@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+pandas-ta
+scikit-learn
+xgboost
+setuptools
+
+[dev]
+pytest
+black
+flake8
